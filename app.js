@@ -77,12 +77,6 @@ const app = {
             path: './music/song9.mp3',
             img: './img/img_song9.jpg',
         },
-        {
-            name: 'Buông Hàng',
-            singer: 'Tommy Tèo',
-            path: './music/song10.mp3',
-            img: './img/img_song10.jpg',
-        },
     ],
     setConfig: function(key, value) {
         this.config[key] = value;
